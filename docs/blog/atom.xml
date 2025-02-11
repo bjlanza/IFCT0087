@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://puntadelanza.eu/IFCT0087/blog</id>
+    <title>Especialidad Formativa Seguridad Digital Básica Blog</title>
+    <updated>2024-11-25T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://puntadelanza.eu/IFCT0087/blog"/>
+    <subtitle>Especialidad Formativa Seguridad Digital Básica Blog</subtitle>
+    <icon>https://puntadelanza.eu/IFCT0087/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Primer Post en el Blog]]></title>
+        <id>https://puntadelanza.eu/IFCT0087/blog/primer-post-blog</id>
+        <link href="https://puntadelanza.eu/IFCT0087/blog/primer-post-blog"/>
+        <updated>2024-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Primer Post]]></summary>
+        <content type="html"><![CDATA[<p>Primer Post</p>
+<p>...del Blog</p>]]></content>
+        <author>
+            <name>Borja Javier Lanza Lopez</name>
+            <uri>https://github.com/bjlanza</uri>
+        </author>
+        <category label="Riesgos" term="Riesgos"/>
+        <category label="Ciberseguridad" term="Ciberseguridad"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bienvenida]]></title>
+        <id>https://puntadelanza.eu/IFCT0087/blog/bienvenida</id>
+        <link href="https://puntadelanza.eu/IFCT0087/blog/bienvenida"/>
+        <updated>2024-11-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cosas muy interesantes]]></summary>
+        <content type="html"><![CDATA[<p>Cosas muy interesantes</p>
+<p>Algunos trucos</p>
+<p>Mas Noticias</p>]]></content>
+        <author>
+            <name>Borja Javier Lanza Lopez</name>
+            <uri>https://github.com/bjlanza</uri>
+        </author>
+        <category label="Ciberseguridad" term="Ciberseguridad"/>
+        <category label="Riesgos" term="Riesgos"/>
+    </entry>
+</feed>

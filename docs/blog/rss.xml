@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Especialidad Formativa Seguridad Digital Básica Blog</title>
+        <link>https://puntadelanza.eu/IFCT0087/blog</link>
+        <description>Especialidad Formativa Seguridad Digital Básica Blog</description>
+        <lastBuildDate>Mon, 25 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>es</language>
+        <item>
+            <title><![CDATA[Primer Post en el Blog]]></title>
+            <link>https://puntadelanza.eu/IFCT0087/blog/primer-post-blog</link>
+            <guid>https://puntadelanza.eu/IFCT0087/blog/primer-post-blog</guid>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Primer Post]]></description>
+            <content:encoded><![CDATA[<p>Primer Post</p>
+<p>...del Blog</p>]]></content:encoded>
+            <category>Riesgos</category>
+            <category>Ciberseguridad</category>
+        </item>
+        <item>
+            <title><![CDATA[Bienvenida]]></title>
+            <link>https://puntadelanza.eu/IFCT0087/blog/bienvenida</link>
+            <guid>https://puntadelanza.eu/IFCT0087/blog/bienvenida</guid>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cosas muy interesantes]]></description>
+            <content:encoded><![CDATA[<p>Cosas muy interesantes</p>
+<p>Algunos trucos</p>
+<p>Mas Noticias</p>]]></content:encoded>
+            <category>Ciberseguridad</category>
+            <category>Riesgos</category>
+        </item>
+    </channel>
+</rss>
